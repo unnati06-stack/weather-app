@@ -4,7 +4,7 @@ import tkinter as tk
 import requests as rq
 
 base_url="https://api.weatherapi.com/v1/current.json?"
-api_key="5bd7bfaa3c3847a3805150021260606"
+api_key="your_api_key"
 
 
 #function to get data
